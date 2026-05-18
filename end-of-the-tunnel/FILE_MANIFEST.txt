@@ -1,0 +1,35 @@
+The End of the Tunnel — Clean Package Manifest
+
+Core runtime:
+- server.js
+- database.js
+- package.json
+- render.yaml
+- data/sessions.json
+
+Public app:
+- public/player/index.html
+- public/player/player.js
+- public/host/index.html
+- public/host/host.js
+- public/checkin/index.html
+- public/checkin/checkin.js
+- public/shared/styles.css
+
+Assets:
+- public/assets/end-of-the-tunnel-title-bg.png
+- public/assets/end-of-the-tunnel-logo-only.png
+- public/assets/barfly-social-logo.png
+
+Truth packs:
+- truth-packs/end-of-the-tunnel-training.json
+- truth-packs/end-of-the-tunnel-rookie.json
+- truth-packs/end-of-the-tunnel-junior.json
+- truth-packs/end-of-the-tunnel-detective.json
+- truth-packs/end-of-the-tunnel-senior.json
+- truth-packs/end-of-the-tunnel.json
+- truth-packs/demo.json
+
+Notes:
+- No node_modules folder included.
+- Run npm install after upload/deploy.

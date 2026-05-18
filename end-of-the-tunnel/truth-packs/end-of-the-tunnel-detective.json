@@ -1,0 +1,544 @@
+{
+  "id": "end-of-the-tunnel-detective",
+  "title": "The End of the Tunnel \u2014 Level 4 Detective",
+  "venue": "The Tunnel, Baton Rouge, Louisiana",
+  "description": "LEVEL 4 DETECTIVE version of The End of the Tunnel with unique suspect, method, motive, evidence, and answers.",
+  "answerKey": {
+    "culprit": "Bennett Clay",
+    "method": "A staged fall at the Peacock Alley tile wall during a timed power flicker",
+    "motive": "To hide his ring of forged Huey Long political memorabilia",
+    "keyEvidence": "modern UV ink on antique documents, collector payment trail, and edited camera metadata",
+    "explanation": "Bennett Clay had access to Peacock Alley, a reason to bury the truth, and the timing to use the blackout. The proof path combines modern UV ink on antique documents, collector payment trail, and edited camera metadata with the failed statement that the tunnel access had not been used recently."
+  },
+  "publicClues": [
+    {
+      "id": "pub-000",
+      "unlockSec": 45,
+      "title": "Case Opened",
+      "text": "The End of the Tunnel begins at The Tunnel in Baton Rouge. Peacock Alley, the passage between the Heidelberg and King hotels, is back in the spotlight."
+    },
+    {
+      "id": "pub-001",
+      "unlockSec": 105,
+      "title": "Private Preview",
+      "text": "The victim arrived with a hotel ledger, a King Hotel key, and a sealed envelope marked DO NOT DELIVER."
+    },
+    {
+      "id": "pub-002",
+      "unlockSec": 525,
+      "title": "Checkpoint 1 Available",
+      "text": "Round 1 is ready. Review the body scene and the blackout before answering."
+    },
+    {
+      "id": "pub-003",
+      "unlockSec": 825,
+      "title": "Checkpoint 2 Available",
+      "text": "Round 2 is ready. Compare the Heidelberg and King Hotel timeline."
+    },
+    {
+      "id": "pub-004",
+      "unlockSec": 1125,
+      "title": "Checkpoint 3 Available",
+      "text": "Round 3 is ready. Keys, doors, and access logs now matter."
+    },
+    {
+      "id": "pub-005",
+      "unlockSec": 1425,
+      "title": "Checkpoint 4 Available",
+      "text": "Round 4 is ready. Separate the old rumor from the modern motive."
+    },
+    {
+      "id": "pub-006",
+      "unlockSec": 1605,
+      "title": "Final Accusation Open",
+      "text": "Final questions are open. Complete all questions before the case locks."
+    }
+  ],
+  "apps": {
+    "phone": [
+      {
+        "id": "detective-phone-1",
+        "unlockSec": 225,
+        "title": "Phone Evidence 1",
+        "text": "The victim missed two calls from Bennett Clay before the lights went out."
+      },
+      {
+        "id": "detective-phone-2",
+        "unlockSec": 345,
+        "title": "Phone Evidence 2",
+        "text": "A final eleven-second call connected as the victim moved toward the King Hotel door."
+      }
+    ],
+    "messages": [
+      {
+        "id": "detective-messages-1",
+        "unlockSec": 285,
+        "title": "Messages Evidence 1",
+        "text": "The victim texted: \u201cThe tunnel was opened recently. I can prove it.\u201d"
+      },
+      {
+        "id": "detective-messages-2",
+        "unlockSec": 405,
+        "title": "Messages Evidence 2",
+        "text": "A reply from an unknown number said: \u201cNot in the lobby. Bring the ledger below.\u201d"
+      }
+    ],
+    "maps": [
+      {
+        "id": "detective-maps-1",
+        "unlockSec": 345,
+        "title": "Maps Evidence 1",
+        "text": "The victim\u2019s phone pinged near the Heidelberg service stairs at 8:07 PM."
+      },
+      {
+        "id": "detective-maps-2",
+        "unlockSec": 465,
+        "title": "Maps Evidence 2",
+        "text": "A second device appears near the sealed passage during the same blackout window."
+      }
+    ],
+    "bank": [
+      {
+        "id": "detective-bank-1",
+        "unlockSec": 405,
+        "title": "Bank Evidence 1",
+        "text": "A private payment references \u201cPeacock Alley restoration materials\u201d but posts to a personal account."
+      },
+      {
+        "id": "detective-bank-2",
+        "unlockSec": 525,
+        "title": "Bank Evidence 2",
+        "text": "The payout trail points back to Bennett Clay through a vendor alias."
+      }
+    ],
+    "photos": [
+      {
+        "id": "detective-photos-1",
+        "unlockSec": 465,
+        "title": "Photos Evidence 1",
+        "text": "A guest photo shows a chipped mosaic tile near the victim\u2019s hand."
+      },
+      {
+        "id": "detective-photos-2",
+        "unlockSec": 585,
+        "title": "Photos Evidence 2",
+        "text": "Another photo captures the tunnel rope moved before the official reveal."
+      }
+    ],
+    "social": [
+      {
+        "id": "detective-social-1",
+        "unlockSec": 525,
+        "title": "Social Evidence 1",
+        "text": "A teaser video about Huey Long rumors was posted minutes before the murder."
+      },
+      {
+        "id": "detective-social-2",
+        "unlockSec": 645,
+        "title": "Social Evidence 2",
+        "text": "The reposted clip cuts out the seconds showing someone cross behind the bar curtain."
+      }
+    ],
+    "contacts": [
+      {
+        "id": "detective-contacts-1",
+        "unlockSec": 585,
+        "title": "Contacts Evidence 1",
+        "text": "The victim saved Bennett Clay under \u201cTunnel access follow-up.\u201d"
+      },
+      {
+        "id": "detective-contacts-2",
+        "unlockSec": 705,
+        "title": "Contacts Evidence 2",
+        "text": "A second contact note says: \u201cAsk about King Hotel key stamp.\u201d"
+      }
+    ],
+    "notes": [
+      {
+        "id": "detective-notes-1",
+        "unlockSec": 645,
+        "title": "Notes Evidence 1",
+        "text": "Detective note: the killer needed access, timing, and a reason to turn history into misdirection."
+      },
+      {
+        "id": "detective-notes-2",
+        "unlockSec": 765,
+        "title": "Notes Evidence 2",
+        "text": "Detective note: the scene points to a planned cover-up, not an old curse or random accident."
+      }
+    ],
+    "files": [
+      {
+        "id": "detective-files-1",
+        "unlockSec": 705,
+        "title": "Files Evidence 1",
+        "text": "A security export skips the exact Peacock Alley blackout window."
+      },
+      {
+        "id": "detective-files-2",
+        "unlockSec": 825,
+        "title": "Files Evidence 2",
+        "text": "File metadata shows the export was edited after the preview guest list was finalized."
+      }
+    ],
+    "browser": [
+      {
+        "id": "detective-browser-1",
+        "unlockSec": 765,
+        "title": "Browser Evidence 1",
+        "text": "A browser search asks how to age paper and remove modern ink fluorescence."
+      },
+      {
+        "id": "detective-browser-2",
+        "unlockSec": 885,
+        "title": "Browser Evidence 2",
+        "text": "Another search matches the cover story: \u201cHuey Long tunnel mistress rumor Heidelberg King Hotel.\u201d"
+      }
+    ]
+  },
+  "rounds": [
+    {
+      "id": "tunnel-round-1",
+      "title": "Round 1: Peacock Alley Goes Dark",
+      "shortTitle": "Peacock Alley",
+      "startSec": 0,
+      "endSec": 300,
+      "objective": "Review the body scene, the blackout, and what the victim was holding at the tunnel door.",
+      "dialogue": "The first truth is not in the rumor. It is in the room: who could reach the victim when Peacock Alley went dark?",
+      "countdownReview": "Checkpoint 1 is nearly complete. Lock in what the body scene proves before the next round opens."
+    },
+    {
+      "id": "tunnel-round-2",
+      "title": "Round 2: The Heidelberg Timeline",
+      "shortTitle": "Timeline",
+      "startSec": 300,
+      "endSec": 600,
+      "objective": "Compare the movements between the Heidelberg side, the King Hotel side, and the speakeasy floor.",
+      "dialogue": "The tunnel once solved problems for hotel guests. Tonight, it gives one suspect a false alibi.",
+      "countdownReview": "Checkpoint 2 is nearly complete. Find who could move without being seen."
+    },
+    {
+      "id": "tunnel-round-3",
+      "title": "Round 3: The King Hotel Door",
+      "shortTitle": "Access",
+      "startSec": 600,
+      "endSec": 900,
+      "objective": "Study keys, service panels, valet slips, and staff access around the sealed passage.",
+      "dialogue": "A sealed door is only sealed to people without the right key. Follow the access evidence.",
+      "countdownReview": "Checkpoint 3 is nearly complete. Decide which access clue breaks the story."
+    },
+    {
+      "id": "tunnel-round-4",
+      "title": "Round 4: The Rumor Machine",
+      "shortTitle": "Motive",
+      "startSec": 900,
+      "endSec": 1200,
+      "objective": "Separate historic rumor from modern motive. The old legend is being used as cover.",
+      "dialogue": "Huey Long, Peacock Alley, and the old hotel gossip are smoke. Someone created that smoke on purpose.",
+      "countdownReview": "Checkpoint 4 is nearly complete. Identify what the killer was really hiding."
+    },
+    {
+      "id": "tunnel-round-5",
+      "title": "Round 5: The End of the Tunnel",
+      "shortTitle": "Cover-Up",
+      "startSec": 1200,
+      "endSec": 1500,
+      "objective": "Use the final evidence to decide who used the tunnel, who staged the scene, and why.",
+      "dialogue": "At the end of the tunnel is not a ghost story. It is a present-day crime with fingerprints.",
+      "countdownReview": "The final window is opening. Prepare the accusation."
+    },
+    {
+      "id": "tunnel-final",
+      "title": "Final Accusation",
+      "shortTitle": "Accuse",
+      "startSec": 1500,
+      "endSec": 1800,
+      "objective": "Answer the final five questions to close The End of the Tunnel.",
+      "dialogue": "Final accusation is open. Name the killer, method, motive, evidence, and explanation.",
+      "countdownReview": "The final window is closing. Submit all answers before The End of the Tunnel locks."
+    }
+  ],
+  "openingNarration": "Detectives, welcome to The End of the Tunnel at The Tunnel in Baton Rouge. You are playing Level 4 Detective. Peacock Alley once connected the Heidelberg and King hotels. Tonight, a historian is dead, and an old political rumor is covering a modern crime.",
+  "revealScript": "The old rumor was bait. Bennett Clay used Peacock Alley as cover and killed to keep a present-day secret buried. The end of the tunnel was not the past. It was access, motive, and evidence pointing back to Bennett Clay.",
+  "accusation": {
+    "questions": [
+      {
+        "id": "cp1",
+        "stage": "checkpoint",
+        "roundId": "tunnel-round-1",
+        "unlockSec": 300,
+        "prompt": "Checkpoint 1: What makes the death suspicious?",
+        "correctOptionId": "cp1-correct",
+        "options": [
+          {
+            "id": "d1",
+            "label": "A normal guest tripped near the bar"
+          },
+          {
+            "id": "cp1-correct",
+            "label": "The victim was found at a restricted tunnel door during a staged blackout"
+          },
+          {
+            "id": "d2",
+            "label": "A menu had the wrong cocktail price"
+          },
+          {
+            "id": "d3",
+            "label": "A jazz song ended early"
+          }
+        ]
+      },
+      {
+        "id": "cp2",
+        "stage": "checkpoint",
+        "roundId": "tunnel-round-2",
+        "unlockSec": 600,
+        "prompt": "Checkpoint 2: Which timeline clue matters most?",
+        "correctOptionId": "cp2-correct",
+        "options": [
+          {
+            "id": "d1",
+            "label": "The singer took a longer encore"
+          },
+          {
+            "id": "cp2-correct",
+            "label": "The suspect could move between the Heidelberg side and King Hotel side during the blackout"
+          },
+          {
+            "id": "d2",
+            "label": "A guest paid cash for a drink"
+          },
+          {
+            "id": "d3",
+            "label": "The valet stand was busy"
+          }
+        ]
+      },
+      {
+        "id": "cp3",
+        "stage": "checkpoint",
+        "roundId": "tunnel-round-3",
+        "unlockSec": 900,
+        "prompt": "Checkpoint 3: Which access clue breaks the case open?",
+        "correctOptionId": "cp3-correct",
+        "options": [
+          {
+            "id": "cp3-correct",
+            "label": "A supposedly sealed service door shows recent use tied to the suspect"
+          },
+          {
+            "id": "d1",
+            "label": "The public restroom line was long"
+          },
+          {
+            "id": "d2",
+            "label": "A table candle burned low"
+          },
+          {
+            "id": "d3",
+            "label": "The bartender changed playlists"
+          }
+        ]
+      },
+      {
+        "id": "cp4",
+        "stage": "checkpoint",
+        "roundId": "tunnel-round-4",
+        "unlockSec": 1200,
+        "prompt": "Checkpoint 4: What was the old Huey Long rumor doing in the case?",
+        "correctOptionId": "cp4-correct",
+        "options": [
+          {
+            "id": "d1",
+            "label": "It proved the tunnel was haunted"
+          },
+          {
+            "id": "d2",
+            "label": "It identified every hotel guest"
+          },
+          {
+            "id": "cp4-correct",
+            "label": "It distracted everyone from a modern crime happening through the tunnel"
+          },
+          {
+            "id": "d3",
+            "label": "It explained why the lights were decorative"
+          }
+        ]
+      },
+      {
+        "id": "final-culprit",
+        "stage": "final",
+        "unlockSec": 1500,
+        "prompt": "Final Accusation: Who killed the victim?",
+        "correctOptionId": "culprit",
+        "options": [
+          {
+            "id": "culprit",
+            "label": "Bennett Clay"
+          },
+          {
+            "id": "s1",
+            "label": "Vivian Cross"
+          },
+          {
+            "id": "s2",
+            "label": "Julian March"
+          },
+          {
+            "id": "s3",
+            "label": "Celeste Moreau"
+          },
+          {
+            "id": "s4",
+            "label": "Rhett Boudreaux"
+          },
+          {
+            "id": "s5",
+            "label": "Nora Vale"
+          },
+          {
+            "id": "s6",
+            "label": "Bennett Clay"
+          },
+          {
+            "id": "s7",
+            "label": "Mara King"
+          }
+        ]
+      },
+      {
+        "id": "final-method",
+        "stage": "final",
+        "unlockSec": 1500,
+        "prompt": "Final Accusation: What method was used?",
+        "correctOptionId": "method",
+        "options": [
+          {
+            "id": "d1",
+            "label": "A random fall during the crowded toast"
+          },
+          {
+            "id": "method",
+            "label": "A staged fall at the Peacock Alley tile wall during a timed power flicker"
+          },
+          {
+            "id": "d2",
+            "label": "A fight outside the lobby"
+          },
+          {
+            "id": "d3",
+            "label": "A fake ghost scare that went wrong"
+          }
+        ]
+      },
+      {
+        "id": "final-motive",
+        "stage": "final",
+        "unlockSec": 1500,
+        "prompt": "Final Accusation: What was the motive?",
+        "correctOptionId": "motive",
+        "options": [
+          {
+            "id": "motive",
+            "label": "To hide his ring of forged Huey Long political memorabilia"
+          },
+          {
+            "id": "d1",
+            "label": "To cancel jazz night"
+          },
+          {
+            "id": "d2",
+            "label": "To steal an ordinary bar tab"
+          },
+          {
+            "id": "d3",
+            "label": "To prove the tunnel was never real"
+          }
+        ]
+      },
+      {
+        "id": "final-evidence",
+        "stage": "final",
+        "unlockSec": 1500,
+        "prompt": "Final Accusation: Which evidence combination proves it?",
+        "correctOptionId": "evidence",
+        "options": [
+          {
+            "id": "d1",
+            "label": "A cocktail umbrella, a napkin, and a playlist"
+          },
+          {
+            "id": "evidence",
+            "label": "modern UV ink on antique documents, collector payment trail, and edited camera metadata"
+          },
+          {
+            "id": "d2",
+            "label": "A parking ticket, a menu typo, and a receipt"
+          },
+          {
+            "id": "d3",
+            "label": "A rumor, a song request, and a cracked glass"
+          }
+        ]
+      },
+      {
+        "id": "final-truth",
+        "stage": "final",
+        "unlockSec": 1500,
+        "prompt": "Final Accusation: What is the real truth of the case?",
+        "correctOptionId": "truth",
+        "options": [
+          {
+            "id": "d1",
+            "label": "The victim was killed over a confirmed historic romance"
+          },
+          {
+            "id": "truth",
+            "label": "The historic rumor was used to hide a present-day crime inside the tunnel"
+          },
+          {
+            "id": "d2",
+            "label": "No one had access to the passage"
+          },
+          {
+            "id": "d3",
+            "label": "The murder was unrelated to the preview"
+          }
+        ]
+      },
+      {
+        "id": "final-location",
+        "stage": "final",
+        "unlockSec": 1500,
+        "prompt": "Final Accusation: Why does the title matter?",
+        "correctOptionId": "location",
+        "options": [
+          {
+            "id": "location",
+            "label": "Because the killer\u2019s alibi ends where the tunnel access evidence begins"
+          },
+          {
+            "id": "d1",
+            "label": "Because the victim never entered the building"
+          },
+          {
+            "id": "d2",
+            "label": "Because the tunnel only appears in a song lyric"
+          },
+          {
+            "id": "d3",
+            "label": "Because the King Hotel key was decorative"
+          }
+        ]
+      }
+    ]
+  },
+  "difficulty": "detective",
+  "difficultyLabel": "Detective",
+  "gameId": "end-of-the-tunnel",
+  "gameTitle": "The End of the Tunnel",
+  "levelId": "detective",
+  "levelName": "Level 4 Detective",
+  "levelLabel": "Level 4 Detective"
+}
