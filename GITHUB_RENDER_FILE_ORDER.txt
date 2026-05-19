@@ -1,0 +1,32 @@
+THE END OF THE TUNNEL — GITHUB / RENDER FILE ORDER
+
+Upload the CONTENTS of this folder to GitHub. Do not upload an extra wrapper folder.
+
+Root files Render needs first:
+1. package.json
+2. server.js
+3. database.js
+4. render.yaml
+5. README.md
+6. .gitignore
+7. .node-version
+8. .npmrc
+
+Folders:
+9. data/
+10. public/
+11. truth-packs/
+
+Do NOT upload:
+- node_modules/
+- .env
+- .DS_Store
+
+Render settings:
+Build Command: npm install
+Start Command: npm start
+
+After deploy:
+/player  = player title screen
+/host    = host dashboard
+/checkin = check-in screen
